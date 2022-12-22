@@ -1,4 +1,6 @@
-# startup_Investment_project
+# Startup_Investment_project
+
+![image](https://user-images.githubusercontent.com/91350558/209234445-2a4d5742-7962-4422-98bf-963426a30ea3.png)
 
 Analysis of the key trends in the growth, investor enthusiasm and investment milestones of startups in the 21st century.
 
@@ -6,7 +8,7 @@ The startup scene is booming. Thousands of new firms are established every day, 
 
 ## Dataset Details:
 ### Name : Startup Investment Dataset
-### Source and Link : Kaggle - Startup Investments | Kaggle
+### Source and Link : Kaggle - Startup Investments | [Kaggle](https://www.kaggle.com/datasets/justinas/startup-investments)
 ### Usability: 10.0
 ### The files that will be used as part of our dataset are: Objects, Funding rounds, Funds, Relationships, Offices and Investments.
 
